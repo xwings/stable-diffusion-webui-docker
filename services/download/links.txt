@@ -20,3 +20,5 @@ https://huggingface.co/kadirnar/bsrgan/resolve/main/BSRGAN.pth
   out=BSRGAN/BSRGAN.pth
 https://github.com/cszn/KAIR/releases/download/v1.0/scunet_color_real_gan.pth
   out=ScuNET/scunet_color_real_gan.pth
+https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth
+  out=ESRGAN/4x-UltraSharp.pth
