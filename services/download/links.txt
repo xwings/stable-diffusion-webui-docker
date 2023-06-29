@@ -1,5 +1,5 @@
 https://huggingface.co/ckpt/chilloutmix/resolve/main/chilloutmix_NiPrunedFp32Fix.safetensors
-  out= chilloutmix_NiPrunedFp32Fix.safetensors
+  out=StableDiffusion/chilloutmix_NiPrunedFp32Fix.safetensors
 https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
   out=StableDiffusion/v1-5-pruned-emaonly.ckpt
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
@@ -25,4 +25,6 @@ https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth
 https://civitai.com/api/download/models/77903
   out=StableDiffusion/xxmix9realistic_v30.safetensors
 https://civitai.com/api/download/models/82446
-  out out=StableDiffusion/majicmixRealistic_v5.safetensors
+  out=StableDiffusion/majicmixRealistic_v5.safetensors
+https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11f1e_sd15_tile.pth
+  out=ControlNet/control_v11f1e_sd15_tile.pth
