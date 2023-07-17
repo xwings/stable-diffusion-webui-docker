@@ -1,5 +1,5 @@
 FROM alpine:3.17 as xformers
-RUN apk add --no-cache aria2
+RUN apk add --no-cache aria2 git
 RUN aria2c -x 5 --dir / --out wheel.whl 'https://github.com/AbdBarho/stable-diffusion-webui-docker/releases/download/6.0.0/xformers-0.0.21.dev544-cp310-cp310-manylinux2014_x86_64-pytorch201.whl'
 
 
