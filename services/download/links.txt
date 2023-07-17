@@ -26,5 +26,89 @@ https://civitai.com/api/download/models/77903
   out=StableDiffusion/xxmix9realistic_v30.safetensors
 https://civitai.com/api/download/models/82446
   out=StableDiffusion/majicmixRealistic_v5.safetensors
+https://huggingface.co/ckpt/majicmix-realistic/resolve/main/majicmixRealistic_v4.safetensors
+  out=ControlNet/majicmixRealistic_v4.safetensors
+https://huggingface.co/ckpt/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+  out=StableDiffusion/majicmixRealistic_v4.vae.pt
 https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11f1e_sd15_tile.pth
   out=ControlNet/control_v11f1e_sd15_tile.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p_fp16.safetensors
+  out=ControlNet/control_v11e_sd15_ip2p_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle_fp16.safetensors
+  out=ControlNet/control_v11e_sd15_shuffle_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_canny_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth_fp16.safetensors
+  out=ControlNet/control_v11f1p_sd15_depth_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_inpaint_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_lineart_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_mlsd_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_normalbae_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_openpose_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_scribble_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_seg_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge_fp16.safetensors
+  out=ControlNet/control_v11p_sd15_softedge_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime_fp16.safetensors
+  out=ControlNet/control_v11p_sd15s2_lineart_anime_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile_fp16.safetensors
+  out=ControlNet/control_v11f1e_sd15_tile_fp16.safetensors
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11e_sd15_ip2p_fp16.yaml
+  out=ControlNet/control_v11e_sd15_ip2p_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11e_sd15_shuffle_fp16.yaml
+  out=ControlNet/control_v11e_sd15_shuffle_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_canny_fp16.yaml
+  out=ControlNet/control_v11p_sd15_canny_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11f1p_sd15_depth_fp16.yaml
+  out=ControlNet/control_v11f1p_sd15_depth_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_inpaint_fp16.yaml
+  out=ControlNet/control_v11p_sd15_inpaint_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_lineart_fp16.yaml
+  out=ControlNet/control_v11p_sd15_lineart_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_mlsd_fp16.yaml
+  out=ControlNet/control_v11p_sd15_mlsd_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_normalbae_fp16.yaml
+  out=ControlNet/control_v11p_sd15_normalbae_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_openpose_fp16.yaml
+  out=ControlNet/control_v11p_sd15_openpose_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_scribble_fp16.yaml
+  out=ControlNet/control_v11p_sd15_scribble_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_seg_fp16.yaml
+  out=ControlNet/control_v11p_sd15_seg_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15_softedge_fp16.yaml
+  out=ControlNet/control_v11p_sd15_softedge_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11p_sd15s2_lineart_anime_fp16.yaml
+  out=ControlNet/control_v11p_sd15s2_lineart_anime_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/raw/main/control_v11f1e_sd15_tile_fp16.yaml
+  out=ControlNet/control_v11f1e_sd15_tile_fp16.yaml
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_style_sd14v1.pth
+  out=ControlNet/t2iadapter_style_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_sketch_sd14v1.pth
+  out=ControlNet/t2iadapter_sketch_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_seg_sd14v1.pth
+  out=ControlNet/t2iadapter_seg_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_openpose_sd14v1.pth
+  out=ControlNet/t2iadapter_openpose_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_keypose_sd14v1.pth
+  out=ControlNet/t2iadapter_keypose_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_depth_sd14v1.pth
+  out=ControlNet/t2iadapter_depth_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_color_sd14v1.pth
+  out=ControlNet/t2iadapter_color_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_canny_sd14v1.pth
+  out=ControlNet/t2iadapter_canny_sd14v1.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_canny_sd15v2.pth
+  out=ControlNet/t2iadapter_canny_sd15v2.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_depth_sd15v2.pth
+  out=ControlNet/t2iadapter_depth_sd15v2.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_sketch_sd15v2.pth
+  out=ControlNet/t2iadapter_sketch_sd15v2.pth
+https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/t2iadapter_zoedepth_sd15v1.pth
+  out=ControlNet/t2iadapter_zoedepth_sd15v1.pth
