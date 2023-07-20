@@ -1,5 +1,7 @@
 https://huggingface.co/ckpt/chilloutmix/resolve/main/chilloutmix_NiPrunedFp32Fix.safetensors
   out=StableDiffusion/chilloutmix_NiPrunedFp32Fix.safetensors
+https://civitai.com/api/download/models/105035
+  out=StableDiffusion/epicrealism.safetensors
 https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
   out=Stable-diffusion/v1-5-pruned-emaonly.ckpt
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
