@@ -1,13 +1,13 @@
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors
   out=Lora/sd_xl_offset_example-lora_1.0.safetensors
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors
-  out=StableDiffusion/sd_xl_base_1.0.safetensors
+  out=Stable-diffusion/sd_xl_base_1.0.safetensors
 https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
-  out=StableDiffusion/sd_xl_refiner_1.0.safetensors
+  out=Stable-diffusion/sd_xl_refiner_1.0.safetensors
 https://huggingface.co/ckpt/chilloutmix/resolve/main/chilloutmix_NiPrunedFp32Fix.safetensors
-  out=StableDiffusion/chilloutmix_NiPrunedFp32Fix.safetensors
+  out=Stable-diffusion/chilloutmix_NiPrunedFp32Fix.safetensors
 https://civitai.com/api/download/models/105035
-  out=StableDiffusion/epicrealism.safetensors
+  out=Stable-diffusion/epicrealism.safetensors
 https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
   out=Stable-diffusion/v1-5-pruned-emaonly.ckpt
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
